@@ -1,0 +1,78 @@
+h1
+{
+width:100%;
+background-color: rgb(19, 0, 119);
+color:rgb(255,255,255);
+text-align:center;
+text-indent: 50px;
+}
+
+h3
+{
+text-align:left;
+text-indent: 50px;
+
+}
+label{
+	padding-top:12px;
+    display: inline-block;
+    float: left;
+    clear: both;
+    width: 250px;
+    text-align: right;
+margin-right: 5px;
+}
+div{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding:12px 20px;
+    width: 1100px;
+    margin:0px auto;
+    float: left;
+    clear:left;
+
+}
+.button{
+    width: 100px;
+    background-color: #4CAF50;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	float:right;
+	
+}
+
+input{
+    width: 800px;
+    padding-top: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #3CBC8D;
+    border-radius: 4px;
+    float: left;
+   
+}
+
+a:visited {
+    color: red;
+}
+p
+{
+width: 100px;
+text-align: right;    
+}
+
+.footer {
+height:10px;	
+width:100%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+background: rgb(19, 0, 119);
+color:rgb(255,255,255);
+  text-align: center;
+}
